@@ -39,6 +39,7 @@ It uses Retrieval-Augmented Generation (RAG) to provide accurate answers strictl
 **Shubham Dhole**
 
 - GitHub: https://github.com/Shubham976300
+- Mail ID: dholeshubham1@gmail.com
 ---
 
 ## 🧠 Architecture
