@@ -5,7 +5,7 @@ st.set_page_config(page_title="Project Info", page_icon="📘")
 st.title("📘 Project Information")
 
 st.markdown("""
-## 📄 TalkToPDF
+## 📄 Chat2PDF
 
 Chat with your PDF using AI.
 
@@ -16,4 +16,5 @@ Chat with your PDF using AI.
 
 ### 👨‍💻 Author
 Shubham Dhole
+dholeshubham1@gmail.com
 """)
